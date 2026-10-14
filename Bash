@@ -1,0 +1,4 @@
+bash
+git add .github/workflows/android.yml
+git commit -m "Add GitHub Actions workflow to build APK"
+git push origin main
